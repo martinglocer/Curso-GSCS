@@ -1,3 +1,5 @@
+//Implemente su propia función find
+
 function miFind(arreglo, funcionDeFind) {
     let num ;
     for (let i=0; i< arreglo.length; i++) {

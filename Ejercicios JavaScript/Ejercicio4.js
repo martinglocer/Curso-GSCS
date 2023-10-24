@@ -1,3 +1,5 @@
+//Implemente su propia función reduce
+
 function miReduce(arreglo, funcionDeReduce) {
     let acumulador = 0 ;
     for (let i=0; i< arreglo.length; i++) {

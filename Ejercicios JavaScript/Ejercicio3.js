@@ -1,3 +1,5 @@
+//Implemente su propia función filter
+
 function miFilter(arreglo, funcionDeFilter) {
     const numeros = [];
     for (let i=0; i< arreglo.length; i++) {

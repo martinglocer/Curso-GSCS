@@ -1,3 +1,5 @@
+//Implemente su propia función map
+
 function miMap(arreglo, funcionDeMapeo) {
     const resultado = [];
   
